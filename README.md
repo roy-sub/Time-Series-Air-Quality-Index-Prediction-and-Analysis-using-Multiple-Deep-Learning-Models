@@ -10,11 +10,11 @@ This repository contains code for predicting and analyzing time series data for 
 
 * BiLSTMConv1D: Bidirectional LSTM with 1D convolutional layers (BiLSTMConv1D) is a combination of BiLSTM and 1D convolutional layers. This model is effective in capturing both local and global temporal patterns in time series data.
 
+* GRU: Gated Recurrent Unit (GRU) is another type of RNN architecture that is similar to LSTM but has fewer parameters. It will also be added to the repository shortly.
+
 **Coming Soon**
 
 * Support vector regression: Support vector regression (SVR) is a powerful machine learning technique used for regression tasks. It will be added to the repository shortly.
-
-* GRU: Gated Recurrent Unit (GRU) is another type of RNN architecture that is similar to LSTM but has fewer parameters. It will also be added to the repository shortly.
 
 **Dataset**
 
